@@ -1,0 +1,60 @@
+generate 1 boundarylayer
+finish 1 boundarylayer. add 11302 cell. elapsed_ms=2817
+generate 2 boundarylayer
+finish 2 boundarylayer. add 11302 cell. elapsed_ms=3135
+generate 3 boundarylayer
+finish 3 boundarylayer. add 11282 cell. elapsed_ms=3588
+generate 4 boundarylayer
+finish 4 boundarylayer. add 11199 cell. elapsed_ms=3442
+generate 5 boundarylayer
+finish 5 boundarylayer. add 11070 cell. elapsed_ms=3575
+generate 6 boundarylayer
+finish 6 boundarylayer. add 10816 cell. elapsed_ms=3563
+generate 7 boundarylayer
+finish 7 boundarylayer. add 10522 cell. elapsed_ms=3777
+generate 8 boundarylayer
+finish 8 boundarylayer. add 10198 cell. elapsed_ms=3344
+generate 9 boundarylayer
+finish 9 boundarylayer. add 9858 cell. elapsed_ms=3249
+generate 10 boundarylayer
+finish 10 boundarylayer. add 9383 cell. elapsed_ms=3042
+generate 11 boundarylayer
+finish 11 boundarylayer. add 8861 cell. elapsed_ms=2886
+generate 12 boundarylayer
+finish 12 boundarylayer. add 8315 cell. elapsed_ms=2723
+generate 13 boundarylayer
+finish 13 boundarylayer. add 7735 cell. elapsed_ms=2592
+generate 14 boundarylayer
+finish 14 boundarylayer. add 6975 cell. elapsed_ms=2302
+generate 15 boundarylayer
+finish 15 boundarylayer. add 6037 cell. elapsed_ms=2126
+generate 16 boundarylayer
+finish 16 boundarylayer. add 4242 cell. elapsed_ms=1581
+generate 17 boundarylayer
+finish 17 boundarylayer. add 3037 cell. elapsed_ms=1161
+generate 18 boundarylayer
+finish 18 boundarylayer. add 1759 cell. elapsed_ms=861
+generate 19 boundarylayer
+finish 19 boundarylayer. add 210 cell. elapsed_ms=206
+generate 20 boundarylayer
+finish 20 boundarylayer. add 1 cell. elapsed_ms=86
+input_vertices=6907
+input_faces=14103
+volume_cells=157746
+transition_cells=0
+layer_transition_cells=3642
+regular_cells=154104
+farfield_faces=15747
+maximum_skewness=1
+max_layer_diff=1
+isotropic_height=1
+stop_none=104
+stop_vertex_layer_limit=0
+stop_degenerate_candidate=0
+stop_reversed_candidate=0
+stop_locally_inverted_candidate=267
+stop_skewness_exceeded=2
+stop_collision=1909
+stop_sliding_projection=0
+stop_neighbor_layer_constraint=2635
+stop_isotropic_height=6385

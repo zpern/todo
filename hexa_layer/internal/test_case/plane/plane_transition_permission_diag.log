@@ -1,0 +1,324 @@
+generate 1 boundarylayer
+finish 1 boundarylayer. add 11302 cell. elapsed_ms=2907
+generate 2 boundarylayer
+finish 2 boundarylayer. add 11302 cell. elapsed_ms=3400
+generate 3 boundarylayer
+TRANSITION_PERMISSION_DIAG source=10416 rollback=10416 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11082 rollback=11082 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10268 rollback=10268 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11296 rollback=11296 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10237 rollback=10237 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11283 rollback=11283 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10411 rollback=10411 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11104 rollback=11104 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10251 rollback=10251 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10257 rollback=10257 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10246 rollback=10246 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10254 rollback=10254 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10267 rollback=10267 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10406 rollback=10406 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10385 rollback=10385 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10270 rollback=10270 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10386 rollback=10386 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10272 rollback=10272 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10387 rollback=10387 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10281 rollback=10281 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10283 rollback=10283 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10366 rollback=10366 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10367 rollback=10367 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10293 rollback=10293 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10300 rollback=10300 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10368 rollback=10368 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10369 rollback=10369 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10280 rollback=10280 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10305 rollback=10305 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10372 rollback=10372 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10328 rollback=10328 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10375 rollback=10375 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10431 rollback=10431 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10297 rollback=10297 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10335 rollback=10335 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10432 rollback=10432 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10342 rollback=10342 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10433 rollback=10433 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10410 rollback=10410 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10349 rollback=10349 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10316 rollback=10316 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10455 rollback=10455 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10450 rollback=10450 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10312 rollback=10312 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10343 rollback=10343 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10317 rollback=10317 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10340 rollback=10340 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10449 rollback=10449 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10330 rollback=10330 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10392 rollback=10392 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10393 rollback=10393 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10318 rollback=10318 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10405 rollback=10405 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10401 rollback=10401 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10326 rollback=10326 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10296 rollback=10296 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10320 rollback=10320 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10403 rollback=10403 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10452 rollback=10452 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10301 rollback=10301 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10298 rollback=10298 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10451 rollback=10451 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10441 rollback=10441 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10290 rollback=10290 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10440 rollback=10440 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10284 rollback=10284 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10282 rollback=10282 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10413 rollback=10413 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10275 rollback=10275 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10274 rollback=10274 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10412 rollback=10412 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10271 rollback=10271 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10396 rollback=10396 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10264 rollback=10264 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10261 rollback=10261 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10260 rollback=10260 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10240 rollback=10240 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10250 rollback=10250 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=10249 rollback=10249 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11107 rollback=11107 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11224 rollback=11224 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11089 rollback=11089 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11102 rollback=11102 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11295 rollback=11295 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11110 rollback=11110 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11093 rollback=11093 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11208 rollback=11208 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11117 rollback=11117 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11228 rollback=11228 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11206 rollback=11206 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11124 rollback=11124 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11207 rollback=11207 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11105 rollback=11105 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11126 rollback=11126 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11243 rollback=11243 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11114 rollback=11114 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11134 rollback=11134 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11244 rollback=11244 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11199 rollback=11199 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11284 rollback=11284 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11140 rollback=11140 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11143 rollback=11143 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11287 rollback=11287 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11291 rollback=11291 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11164 rollback=11164 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11170 rollback=11170 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11231 rollback=11231 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11174 rollback=11174 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11230 rollback=11230 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11182 rollback=11182 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11229 rollback=11229 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11235 rollback=11235 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11154 rollback=11154 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11280 rollback=11280 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11185 rollback=11185 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11184 rollback=11184 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11281 rollback=11281 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11282 rollback=11282 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11160 rollback=11160 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11180 rollback=11180 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11279 rollback=11279 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11173 rollback=11173 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11203 rollback=11203 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11168 rollback=11168 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11202 rollback=11202 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11161 rollback=11161 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11201 rollback=11201 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11200 rollback=11200 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11148 rollback=11148 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11142 rollback=11142 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11267 rollback=11267 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11294 rollback=11294 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11135 rollback=11135 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11132 rollback=11132 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11211 rollback=11211 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11127 rollback=11127 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11209 rollback=11209 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11277 rollback=11277 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11122 rollback=11122 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11121 rollback=11121 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11278 rollback=11278 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11276 rollback=11276 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11115 rollback=11115 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11112 rollback=11112 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11265 rollback=11265 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11103 rollback=11103 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11221 rollback=11221 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11220 rollback=11220 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11092 rollback=11092 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11080 rollback=11080 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11097 rollback=11097 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=11096 rollback=11096 layer=3 role=0 region=19 columns=0
+TRANSITION_PERMISSION_DIAG source=8577 rollback=8577 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8091 rollback=8091 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8662 rollback=8662 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8578 rollback=8578 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8703 rollback=8703 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8665 rollback=8665 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8704 rollback=8704 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8690 rollback=8690 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8705 rollback=8705 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8670 rollback=8670 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8666 rollback=8666 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8651 rollback=8651 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8667 rollback=8667 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8652 rollback=8652 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8653 rollback=8653 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8677 rollback=8677 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8715 rollback=8715 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8714 rollback=8714 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8671 rollback=8671 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8654 rollback=8654 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8672 rollback=8672 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8655 rollback=8655 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8663 rollback=8663 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8656 rollback=8656 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8718 rollback=8718 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8657 rollback=8657 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8658 rollback=8658 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8680 rollback=8680 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8727 rollback=8727 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8726 rollback=8726 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8687 rollback=8687 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8711 rollback=8711 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8696 rollback=8696 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8713 rollback=8713 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8709 rollback=8709 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8682 rollback=8682 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=7207 rollback=7207 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8734 rollback=8734 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8702 rollback=8702 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=7611 rollback=7611 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8094 rollback=8094 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8433 rollback=8433 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8365 rollback=8365 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8093 rollback=8093 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8364 rollback=8364 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8342 rollback=8342 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8381 rollback=8381 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8437 rollback=8437 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8380 rollback=8380 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8438 rollback=8438 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8335 rollback=8335 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8424 rollback=8424 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8375 rollback=8375 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8425 rollback=8425 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8352 rollback=8352 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8374 rollback=8374 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8350 rollback=8350 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8422 rollback=8422 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8392 rollback=8392 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8398 rollback=8398 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8368 rollback=8368 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8353 rollback=8353 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8396 rollback=8396 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8394 rollback=8394 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8358 rollback=8358 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8366 rollback=8366 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8431 rollback=8431 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8399 rollback=8399 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8430 rollback=8430 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8355 rollback=8355 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8427 rollback=8427 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8356 rollback=8356 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8372 rollback=8372 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8367 rollback=8367 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8347 rollback=8347 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8363 rollback=8363 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=8092 rollback=8092 layer=3 role=0 region=25 columns=0
+TRANSITION_PERMISSION_DIAG source=9137 rollback=9137 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8828 rollback=8828 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=9625 rollback=9625 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=9305 rollback=9305 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=9459 rollback=9459 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=9304 rollback=9304 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8982 rollback=8982 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=9455 rollback=9455 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=9134 rollback=9134 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=9626 rollback=9626 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8948 rollback=8948 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8826 rollback=8826 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8937 rollback=8937 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8917 rollback=8917 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8928 rollback=8928 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8950 rollback=8950 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8922 rollback=8922 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8978 rollback=8978 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8972 rollback=8972 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8904 rollback=8904 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8944 rollback=8944 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8971 rollback=8971 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8913 rollback=8913 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8931 rollback=8931 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8903 rollback=8903 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8943 rollback=8943 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8918 rollback=8918 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8953 rollback=8953 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8945 rollback=8945 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8954 rollback=8954 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8940 rollback=8940 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8923 rollback=8923 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8947 rollback=8947 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8946 rollback=8946 layer=3 role=0 region=24 columns=0
+TRANSITION_PERMISSION_DIAG source=8829 rollback=8829 layer=3 role=0 region=24 columns=0
+finish 3 boundarylayer. add 10757 cell. elapsed_ms=3805
+generate 4 boundarylayer
+finish 4 boundarylayer. add 10221 cell. elapsed_ms=3313
+generate 5 boundarylayer
+finish 5 boundarylayer. add 9622 cell. elapsed_ms=3259
+generate 6 boundarylayer
+finish 6 boundarylayer. add 8932 cell. elapsed_ms=2974
+generate 7 boundarylayer
+finish 7 boundarylayer. add 8236 cell. elapsed_ms=2777
+generate 8 boundarylayer
+finish 8 boundarylayer. add 7536 cell. elapsed_ms=2580
+generate 9 boundarylayer
+finish 9 boundarylayer. add 6817 cell. elapsed_ms=2272
+generate 10 boundarylayer
+finish 10 boundarylayer. add 6049 cell. elapsed_ms=2145
+generate 11 boundarylayer
+finish 11 boundarylayer. add 5267 cell. elapsed_ms=1834
+generate 12 boundarylayer
+finish 12 boundarylayer. add 4526 cell. elapsed_ms=1648
+generate 13 boundarylayer
+finish 13 boundarylayer. add 3829 cell. elapsed_ms=1402
+generate 14 boundarylayer
+finish 14 boundarylayer. add 3235 cell. elapsed_ms=1228
+generate 15 boundarylayer
+finish 15 boundarylayer. add 2679 cell. elapsed_ms=1054
+generate 16 boundarylayer
+finish 16 boundarylayer. add 2236 cell. elapsed_ms=932
+generate 17 boundarylayer
+finish 17 boundarylayer. add 1788 cell. elapsed_ms=756
+generate 18 boundarylayer
+finish 18 boundarylayer. add 941 cell. elapsed_ms=490
+generate 19 boundarylayer
+finish 19 boundarylayer. add 176 cell. elapsed_ms=214
+generate 20 boundarylayer
+finish 20 boundarylayer. add 1 cell. elapsed_ms=113
+input_vertices=6907
+input_faces=14103
+volume_cells=121870
+transition_cells=0
+layer_transition_cells=6418
+regular_cells=115452
+farfield_faces=18320
+maximum_skewness=1
+max_layer_diff=1
+isotropic_height=1
+stop_none=124
+stop_vertex_layer_limit=0
+stop_degenerate_candidate=0
+stop_reversed_candidate=0
+stop_locally_inverted_candidate=182
+stop_skewness_exceeded=1
+stop_collision=1341
+stop_sliding_projection=0
+stop_neighbor_layer_constraint=7840
+stop_isotropic_height=1814

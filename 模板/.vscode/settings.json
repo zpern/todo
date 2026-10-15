@@ -1,0 +1,48 @@
+﻿{
+    // 编辑器设置：自动换行，写中文论文时一行太长也会在窗口内显示完整。
+    "editor.wordWrap": "on",
+
+    // LaTeX Workshop：当 .tex 文件发生变化时自动编译。
+    // 如果你觉得自动编译太频繁，可以改成 "onSave"，只在保存时编译。
+    "latex-workshop.latex.autoBuild.run": "onFileChange",
+
+    // 编译输出目录：PDF、aux、log、out 等文件都会放到 build 文件夹里。
+    // 这样主目录会更干净。
+    "latex-workshop.latex.outDir": "build",
+
+    // PDF 预览方式：在 VS Code 标签页中打开 PDF。
+    "latex-workshop.view.pdf.viewer": "tab",
+
+    // PDF 预览位置：在当前编辑器旁边分屏打开，方便左边写 tex、右边看 PDF。
+    "latex-workshop.view.pdf.tab.editorGroup": "beside",
+
+    // 编译工具定义：这里使用 latexmk 调用 XeLaTeX。
+    // XeLaTeX 对中文支持比较稳定，适合 ctexart 中文论文模板。
+    "latex-workshop.latex.tools": [
+        {
+            "name": "latexmk-xelatex",
+            "command": "latexmk",
+            "args": [
+                "-pdfxe",
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "-file-line-error",
+                "-outdir=build",
+                "%DOC%"
+            ]
+        }
+    ],
+
+    // 编译配方：告诉 LaTeX Workshop 使用上面定义的 latexmk-xelatex 工具。
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "latexmk-xelatex",
+            "tools": [
+                "latexmk-xelatex"
+            ]
+        }
+    ],
+
+    // 默认编译配方：以后直接点编译按钮，就默认使用 latexmk-xelatex。
+    "latex-workshop.latex.recipe.default": "latexmk-xelatex"
+}
